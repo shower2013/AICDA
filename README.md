@@ -1,2 +1,2 @@
 # aicda
-ai can do all
+AI can do all
