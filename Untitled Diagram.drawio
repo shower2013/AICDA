@@ -364,13 +364,13 @@
         <mxCell id="Vvy3frVBShBX31A8cEkJ-120" value="CPU：8C&lt;div&gt;MEM：16G&lt;/div&gt;&lt;div&gt;Disk：3T&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-2330" y="314.25" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-121" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-121" value="Mongo-数据源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2230" y="324" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-122" value="LSTM-predictPrice" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2230" y="396.5" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-123" value="IDE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-123" value="IDE-前端页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2240" y="480" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
