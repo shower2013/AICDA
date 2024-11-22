@@ -179,16 +179,16 @@
           <mxGeometry x="-380" y="161" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-57" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="-40" width="120" height="60" as="geometry" />
+          <mxGeometry x="750" y="829" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-58" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="-120" width="120" height="60" as="geometry" />
+          <mxGeometry x="750" y="749" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-59" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="-40" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="-50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-60" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="-120" width="120" height="60" as="geometry" />
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-60" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="630" y="179" width="870" height="740" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-62" value="GatherData" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1630" y="-330" width="90" height="30" as="geometry" />
@@ -199,14 +199,14 @@
         <mxCell id="Vvy3frVBShBX31A8cEkJ-64" value="一键启动脚本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1200" y="-410" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-65" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="-199" width="120" height="60" as="geometry" />
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-65" value="预测股价" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="750" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-66" value="Rest API功能" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="840" y="-279" width="120" height="60" as="geometry" />
+          <mxGeometry x="750" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-67" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="-199" width="120" height="60" as="geometry" />
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-67" value="功能地图" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="640" y="189" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-68" value="前端+Mongo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="520" y="-289" width="120" height="60" as="geometry" />
@@ -224,10 +224,10 @@
           <mxGeometry x="-1030" y="-298" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-73" value="权限功能" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="840" y="-359" width="120" height="60" as="geometry" />
+          <mxGeometry x="750" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-74" value="用户功能" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="840" y="-439" width="120" height="60" as="geometry" />
+          <mxGeometry x="750" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-75" value="CPU：2C&lt;div&gt;MEM：2G&lt;/div&gt;&lt;div&gt;Disk：5G&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="520" y="-377" width="120" height="60" as="geometry" />
@@ -245,10 +245,10 @@
           <mxGeometry x="-1200" y="-458" width="120" height="28" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-81" value="通知功能" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="840" y="-518" width="120" height="60" as="geometry" />
+          <mxGeometry x="750" y="351" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-82" value="登录功能" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="840" y="-598" width="120" height="60" as="geometry" />
+          <mxGeometry x="750" y="271" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-83" value="镜像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1030" y="-139" width="120" height="60" as="geometry" />
@@ -257,100 +257,100 @@
           <mxGeometry x="-1630" y="-399" width="90" height="29" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-85" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="-40" width="120" height="60" as="geometry" />
+          <mxGeometry x="1060" y="829" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-86" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="-120" width="120" height="60" as="geometry" />
+          <mxGeometry x="1060" y="749" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-87" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="-40" width="120" height="60" as="geometry" />
+          <mxGeometry x="910" y="829" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-88" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="-120" width="120" height="60" as="geometry" />
+          <mxGeometry x="910" y="749" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-89" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="-40" width="120" height="60" as="geometry" />
+          <mxGeometry x="1350" y="829" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-90" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="-120" width="120" height="60" as="geometry" />
+          <mxGeometry x="1350" y="749" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-91" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="-40" width="120" height="60" as="geometry" />
+          <mxGeometry x="1200" y="829" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-92" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="-120" width="120" height="60" as="geometry" />
+          <mxGeometry x="1200" y="749" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-93" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="-199" width="120" height="60" as="geometry" />
+          <mxGeometry x="1060" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-94" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="-279" width="120" height="60" as="geometry" />
+          <mxGeometry x="1060" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-95" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="-199" width="120" height="60" as="geometry" />
+          <mxGeometry x="910" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-96" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="-279" width="120" height="60" as="geometry" />
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-96" value="D-P Env&lt;div&gt;更新每日预测价格&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="590" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-97" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="-199" width="120" height="60" as="geometry" />
+          <mxGeometry x="1350" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-98" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="-279" width="120" height="60" as="geometry" />
+          <mxGeometry x="1350" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-99" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="-199" width="120" height="60" as="geometry" />
+          <mxGeometry x="1200" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-100" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="-279" width="120" height="60" as="geometry" />
+          <mxGeometry x="1200" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-101" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="-359" width="120" height="60" as="geometry" />
+          <mxGeometry x="1060" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-102" value="删除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="-439" width="120" height="60" as="geometry" />
+          <mxGeometry x="990" y="440" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-103" value="授权" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="-359" width="120" height="60" as="geometry" />
+          <mxGeometry x="910" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-104" value="增加" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="-439" width="120" height="60" as="geometry" />
+          <mxGeometry x="910" y="440" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-105" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="-359" width="120" height="60" as="geometry" />
+          <mxGeometry x="1350" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-106" value="查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="-439" width="120" height="60" as="geometry" />
+          <mxGeometry x="1130" y="445" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-107" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="-359" width="120" height="60" as="geometry" />
+          <mxGeometry x="1200" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-108" value="修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="-439" width="120" height="60" as="geometry" />
+          <mxGeometry x="1070" y="445" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-109" value="Email" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="-518" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="351" width="50" height="29" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-110" value="密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="-598" width="120" height="60" as="geometry" />
+          <mxGeometry x="990" y="271" width="50" height="29" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-111" value="微信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="-518" width="120" height="60" as="geometry" />
+          <mxGeometry x="910" y="351" width="40" height="29" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-112" value="扫描登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="-598" width="120" height="60" as="geometry" />
+          <mxGeometry x="910" y="271" width="60" height="39" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-113" value="弹窗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="-518" width="120" height="60" as="geometry" />
+          <mxGeometry x="1120" y="350" width="40" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-114" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="-598" width="120" height="60" as="geometry" />
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-114" value="OCR自动录入已买股票" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="750" y="761" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-115" value="声音" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="-518" width="120" height="60" as="geometry" />
+          <mxGeometry x="1060" y="350" width="40" height="31" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-116" value="邮件验证码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="-598" width="120" height="60" as="geometry" />
+          <mxGeometry x="1070" y="271" width="70" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
