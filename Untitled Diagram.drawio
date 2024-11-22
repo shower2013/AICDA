@@ -1,158 +1,173 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.9">
   <diagram name="Page-1" id="sxSwd7jyhiuzXHBnLSu5">
-    <mxGraphModel dx="1912" dy="1047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2762" dy="2147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="100" y="140" width="650" height="330" as="geometry" />
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="501" width="475" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-21" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="100" y="780" width="650" height="280" as="geometry" />
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="161" width="860" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="801" width="860" height="280" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="100" y="470" width="650" height="310" as="geometry" />
+          <mxGeometry x="-380" y="491" width="860" height="310" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-1" value="后端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="100" y="470" width="60" height="20" as="geometry" />
+          <mxGeometry x="-380" y="491" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-2" value="数据集" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="100" y="140" width="50" height="30" as="geometry" />
+          <mxGeometry x="-380" y="161" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-3" value="数据源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="-200" y="181" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-4" value="Akshare数据源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="-200" y="311" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-5" value="测试数据集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="502" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="22" y="641" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-6" value="保存训练后的模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="182" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="-298" y="641" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-7" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="830" width="120" height="60" as="geometry" />
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-7" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="500" y="170" width="695" height="321" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-8" value="加载训练后的预测模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="182" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="-298" y="711" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-9" value="LSTM模型训练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="182" y="560" width="120" height="30" as="geometry" />
+          <mxGeometry x="-298" y="581" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-10" value="统计预测准确率模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="485" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="5" y="811" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-11" value="训练数据集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="502" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="22" y="571" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-12" value="每分钟一次" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="342" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="-138" y="731" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-13" value="Adata数据源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="-200" y="261" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-14" value="Tushare Pro数据源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="-200" y="361" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-16" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="90" width="120" height="60" as="geometry" />
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-16" value="已买股票池" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="901" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-17" value="查看预测明日股票价格" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="622" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="142" y="811" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-18" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="700" width="120" height="60" as="geometry" />
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-18" value="卖点价格" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="725" y="561" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-19" value="定时任务管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="342" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="-138" y="501" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-20" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="580" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-22" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="490" width="120" height="60" as="geometry" />
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-20" value="预测canTradeSet&lt;div&gt;股票价格&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="501" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-23" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="-120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-24" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-24" value="预测日分钟级别数据" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="795" y="506" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-26" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-26" value="预买股票池" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="901" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-27" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-28" value="每周更新一次" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="342" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="-138" y="651" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-29" value="特征工程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="502" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="22" y="501" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-30" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="600" width="120" height="60" as="geometry" />
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-30" value="买点价格" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="725" y="511" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-31" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-32" value="根据交易日历自动设置采集任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="342" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="-138" y="571" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-33" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="-120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-34" value="交易日历" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="-310" y="901" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-35" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-36" value="写入数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1235" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-36" value="数据完整性-统计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="231" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-37" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="-120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-38" value="分钟级别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="810" y="401" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-39" value="获取所有股票代码-allStockSet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1235" y="140" width="120" height="60" as="geometry" />
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-39" value="获取所有股票代码-入库-allStockSet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="665" y="231" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-40" value="前端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="100" y="780" width="62" height="20" as="geometry" />
+          <mxGeometry x="-380" y="801" width="62" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-41" value="数据集更新流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="170" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-42" value="API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1650" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="501" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-43" value="日级别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="810" y="331" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-44" value="账户盈利统计模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="-310" y="811" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-45" value="采集每日股票价格数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1235" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-45" value="采集每日股票价格数据-入库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="665" y="411" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-46" value="盯盘模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="790" width="120" height="60" as="geometry" />
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-46" value="盯盘模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="811" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-47" value="获取ST股票集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-47" value="获取ST股票集-入库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="231" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-48" value="数据源自动更新管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-48" value="数据采集任务管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="181" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-49" value="提取可交易股票代码集-canTradeSet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1235" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-49" value="提取可交易股票代码集-入库-canTradeSet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="665" y="321" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-50" value="股票价格预测模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="182" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="-298" y="501" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-51" value="每日价格" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="645" y="505" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-52" value="收盘价格" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="645" y="541" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-53" value="开盘价格" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="645" y="581" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-54" value="最高价格" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="645" y="627" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-55" value="最低价格" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="645" y="673" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
