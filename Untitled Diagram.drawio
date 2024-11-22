@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Vvy3frVBShBX31A8cEkJ-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2160" y="160" width="390" height="310" as="geometry" />
+          <mxGeometry x="-2340" y="160" width="570" height="640" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-61" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-1730" y="160" width="430" height="311" as="geometry" />
@@ -83,7 +83,7 @@
           <mxGeometry x="-2860" y="151.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-23" value="开发环境" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-2100" y="225.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2330" y="245.25" width="120" height="34.5" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-24" value="预测日分钟级别数据" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="-2565" y="156.5" width="80" height="40" as="geometry" />
@@ -92,7 +92,7 @@
           <mxGeometry x="-160" y="901" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-27" value="生产环境" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-1930" y="225.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1930" y="225.5" width="120" height="34.5" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-28" value="每周更新一次" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-138" y="651" width="120" height="60" as="geometry" />
@@ -353,7 +353,25 @@
           <mxGeometry x="1070" y="271" width="70" height="29" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-117" value="环境类别" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-2160" y="160" width="70" height="30" as="geometry" />
+          <mxGeometry x="-2340" y="160" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-118" value="CPU：4C&lt;div&gt;MEM：8G&lt;/div&gt;&lt;div&gt;Disk：100G&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-2330" y="470.75" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-119" value="CPU：8C&lt;div&gt;MEM：16G&lt;/div&gt;&lt;div&gt;Disk：100G&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-2330" y="387.25" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-120" value="CPU：8C&lt;div&gt;MEM：16G&lt;/div&gt;&lt;div&gt;Disk：3T&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-2330" y="314.25" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-121" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2230" y="324" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-122" value="LSTM-predictPrice" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2230" y="396.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-123" value="IDE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2240" y="480" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
