@@ -304,7 +304,7 @@
         <mxCell id="Vvy3frVBShBX31A8cEkJ-100" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-101" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-101" value="仅查看权限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-102" value="删除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -322,7 +322,7 @@
         <mxCell id="Vvy3frVBShBX31A8cEkJ-106" value="查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="445" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-107" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-107" value="管理员权限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-108" value="修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
