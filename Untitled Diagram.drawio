@@ -373,6 +373,9 @@
         <mxCell id="Vvy3frVBShBX31A8cEkJ-123" value="IDE-前端页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2240" y="480" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-126" value="api-stock" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1490" y="371.5" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
