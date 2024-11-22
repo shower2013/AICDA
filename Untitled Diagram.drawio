@@ -79,8 +79,8 @@
         <mxCell id="Vvy3frVBShBX31A8cEkJ-20" value="预测canTradeSet&lt;div&gt;股票价格&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="-380" y="-100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-23" value="开发环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="-120" width="120" height="60" as="geometry" />
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-23" value="开发环境" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-24" value="预测日分钟级别数据" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="-85" y="-95" width="80" height="40" as="geometry" />
@@ -88,8 +88,8 @@
         <mxCell id="Vvy3frVBShBX31A8cEkJ-26" value="预买股票池" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="901" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-27" value="生产环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="-40" width="120" height="60" as="geometry" />
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-27" value="生产环境" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-28" value="每周更新一次" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-138" y="651" width="120" height="60" as="geometry" />
@@ -202,14 +202,14 @@
         <mxCell id="Vvy3frVBShBX31A8cEkJ-65" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="-199" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-66" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-66" value="Rest API功能" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="840" y="-279" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-67" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="-199" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-68" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="-279" width="120" height="60" as="geometry" />
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-68" value="前端+Mongo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-289" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-69" value="stock&lt;span style=&quot;background-color: initial;&quot;&gt;-frontend&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1630" y="-218" width="90" height="28" as="geometry" />
@@ -223,14 +223,14 @@
         <mxCell id="Vvy3frVBShBX31A8cEkJ-72" value="all-In-One-DockerCompose" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1030" y="-298" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-73" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-73" value="权限功能" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="840" y="-359" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-74" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-74" value="用户功能" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="840" y="-439" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-75" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="-359" width="120" height="60" as="geometry" />
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-75" value="CPU：2C&lt;div&gt;MEM：2G&lt;/div&gt;&lt;div&gt;Disk：5G&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-377" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-77" value="redis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1510" y="-399" width="80" height="29" as="geometry" />
@@ -244,10 +244,10 @@
         <mxCell id="Vvy3frVBShBX31A8cEkJ-80" value="自动部署系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
           <mxGeometry x="-1200" y="-458" width="120" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-81" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-81" value="通知功能" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="840" y="-518" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-82" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-82" value="登录功能" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="840" y="-598" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-83" value="镜像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -307,49 +307,49 @@
         <mxCell id="Vvy3frVBShBX31A8cEkJ-101" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="-359" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-102" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-102" value="删除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="-439" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-103" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-103" value="授权" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="-359" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-104" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-104" value="增加" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="-439" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-105" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1440" y="-359" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-106" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-106" value="查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1440" y="-439" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-107" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1290" y="-359" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-108" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-108" value="修改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1290" y="-439" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-109" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-109" value="Email" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="-518" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-110" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-110" value="密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="-598" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-111" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-111" value="微信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="-518" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-112" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-112" value="扫描登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="-598" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-113" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-113" value="弹窗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1440" y="-518" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-114" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1440" y="-598" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-115" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-115" value="声音" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1290" y="-518" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-116" value="Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-116" value="邮件验证码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1290" y="-598" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
