@@ -379,10 +379,10 @@
         <mxCell id="Vvy3frVBShBX31A8cEkJ-129" value="windows" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2125" y="321.5" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-130" value="c" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-130" value="mac" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2125" y="396.5" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-131" value="c" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Vvy3frVBShBX31A8cEkJ-131" value="mac" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2130" y="480" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
