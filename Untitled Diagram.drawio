@@ -376,13 +376,6 @@
         <mxCell id="Vvy3frVBShBX31A8cEkJ-126" value="api-stock" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="-1490" y="371.5" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Vvy3frVBShBX31A8cEkJ-128" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-1600" y="580" as="sourcePoint" />
-            <mxPoint x="-1520" y="580" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Vvy3frVBShBX31A8cEkJ-129" value="windows" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2125" y="321.5" width="90" height="30" as="geometry" />
         </mxCell>
